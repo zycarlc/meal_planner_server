@@ -1,0 +1,1 @@
+run `psql` then paste `CREATE DATABASE meal_planner`
